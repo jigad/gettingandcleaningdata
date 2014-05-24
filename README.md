@@ -1,7 +1,7 @@
 Getting and Cleaning Data Course Project
 ======================
 
-This is the repository I have made for the Getting And Cleaning Data Coursera Course. This README.md explains how I got to the (hopefully) tidy data set included within the repo.
+This is the repository I have made for the Getting And Cleaning Data Coursera Course. This README.md explains how I got to the (hopefully) tidy data set submitted.
 
 ## Study Design
 I took the data that was given to me. 
